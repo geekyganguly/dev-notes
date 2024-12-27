@@ -22,3 +22,9 @@ echo strlen("saurav");
 ```php
 echo str_word_count("saurav ganguly");
 ```
+
+## `strpos()`
+```php
+echo strpos("saurav ganguly", "rav")
+```
+
